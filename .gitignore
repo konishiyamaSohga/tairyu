@@ -1,5 +1,4 @@
 /.phpunit.cache
-/.cache/bin/node-v20.16.0-linux-x64
 /node_modules
 /public/build
 /public/hot
